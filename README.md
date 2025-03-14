@@ -1,0 +1,2 @@
+"# surfcamp-strapi" 
+"# strapi-surfcamp" 
